@@ -1,3 +1,9 @@
+## Covid-19 Tracker App
+
+A simple WebApp to check the total number of Covid Cases in a particular country.
+
+![HomePage](HomePage.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
